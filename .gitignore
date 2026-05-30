@@ -1,0 +1,22 @@
+# Generated character-cover work
+outputs/
+tmp/
+*.tmp
+
+# Local teaching material and reference artwork
+「咔」封面教学*.md
+中野梓 Nakano Azusa/
+平泽唯 Hirasawa Yui/
+琴吹紬 Kotobuki Tsumugi/
+田井中律 Tainaka Ritsu/
+秋山澪 Akiyama Mio/
+芙莉莲 Frieren/
+深海少女 Deep Sea Girl（初音未来）/
+新建文件夹/
+
+# Local caches
+__pycache__/
+.pytest_cache/
+node_modules/
+Thumbs.db
+.DS_Store

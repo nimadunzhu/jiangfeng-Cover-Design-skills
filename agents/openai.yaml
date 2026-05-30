@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Character Cover"
+  short_description: "Generate approved series-style character covers."
+  default_prompt: "Use $create-character-cover to propose a layout and generate a series-style cover from my character image, character name, and supplied copy."
