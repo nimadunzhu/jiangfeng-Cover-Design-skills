@@ -84,6 +84,16 @@ Ask Codex for a character cover and provide the subject image, bilingual charact
 - This project does not use Photoshop or create PSD files.
 - Local reference artwork, user-supplied images, and generated covers are excluded from GitHub.
 
+## 成品案例 / Examples
+
+### 深海少女 / Deep Sea Girl
+
+![深海少女封面案例](examples/deep-sea-girl.png)
+
+### 芙莉莲 / Frieren
+
+![芙莉莲封面案例](examples/frieren.png)
+
 ## Repository Structure
 
 ```text
@@ -93,6 +103,9 @@ Ask Codex for a character cover and provide the subject image, bilingual charact
 │   └── openai.yaml
 ├── references/
 │   └── style-guide.md
+├── examples/
+│   ├── deep-sea-girl.png
+│   └── frieren.png
 ├── scripts/
 │   ├── new-output-set.ps1
 │   └── validate-cover.ps1
